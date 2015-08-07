@@ -1,0 +1,11 @@
+spaf-model:1.0
+spaf-doc:1
+name:te2Dp
+release-date:2010
+release:unique
+authors:220
+categories:math visualizations
+tags:math,tetratkys
+brief:Extended linear Tetraktys 2D projection
+dev-tools:Linux box,Processing
+sources-url:https://www.github.com/2-2-0/te2Dp
